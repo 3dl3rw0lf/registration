@@ -1,5 +1,5 @@
 import "./App.css";
-import Registration from "./containers/registration";
+import Registration from "./pages/registration";
 
 function App() {
 	return (
